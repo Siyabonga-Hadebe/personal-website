@@ -1,0 +1,24 @@
+body {
+    background-color: #E5FDD1;
+}
+
+h1, h2, h3 { 
+    color: #658864;
+}
+
+img{
+    height: 235px;
+    border-radius: 50dvh;
+}
+
+hr{
+    margin: auto;
+    border-color: #658864;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 5%;
+}
+
+td{
+    column-gap: 5dvh;
+}
